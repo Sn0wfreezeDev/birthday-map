@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#holeTopEntry"
+                 "value":"https:\/\/adventure.emergencity.de\/_\/global\/sn0wfreezedev.github.io\/birthday-map\/map.json#holeTopEntry"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -78,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#holeBottomEntry"
+                 "value":"https:\/\/adventure.emergencity.de\/_\/global\/sn0wfreezedev.github.io\/birthday-map\/map.json#holeBottomEntry"
                 }],
          "type":"tilelayer",
          "visible":true,
