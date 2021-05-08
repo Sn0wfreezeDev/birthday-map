@@ -48,7 +48,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/streams.bigfm.de\/bigfm-nitroxedm-128-mp3"
+                 "value":"https:\/\/streams.bigfm.de\/bigfm-party-128-mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -3365,7 +3365,7 @@
                         {
                          "name":"collides",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }]
                 }, 
                 {
