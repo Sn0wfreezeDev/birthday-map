@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#hole_top"
+                 "value":".\/map.json#holeTop"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -78,7 +78,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#hole_bottom"
+                 "value":".\/map.json#holeBottom"
                 }],
          "type":"tilelayer",
          "visible":true,
