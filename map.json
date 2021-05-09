@@ -39,6 +39,12 @@
          "id":42,
          "name":"invitation",
          "opacity":0.8,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/unruffled-euler-48430c.netlify.app\/party.html"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
